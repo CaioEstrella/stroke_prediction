@@ -2,7 +2,6 @@ import pandas as pd
 import streamlit as st
 import pickle
 import numpy as np
-import zipfile
 import py7zr
 ### Layout do app###
 
