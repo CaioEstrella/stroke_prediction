@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run my_app.py
+web: sh setup.sh && streamlit run stroke_app.py
